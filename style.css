@@ -17,6 +17,9 @@ body {
     padding: 0 1vw;
 }
 
+.navbar li:hover {
+    font-weight: bold;
+}
 
 header {
     background-color: #333;
